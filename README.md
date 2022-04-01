@@ -23,7 +23,7 @@ Script 7: Exportation de la liste des dossiers partagés(Projet07_Nom_AD07.txt).
 Script 8: Exportation de la liste des imprimantes installées et partagées(Projet07_Nom_AD08.txt).
 
 
-E# tapes à suivre :
+# Etapes à suivre :
 
 Script 1: Il suffit de rentré les informations demandés nom, prénom, login, email, mot de passe, chemin du dossier. Une fois saisi, le ou les utilisateurs seront ajoutés au sein de l'AD.
 

@@ -37,4 +37,4 @@ Script 4: Ce dernier script est silencieux, il ne demande donc aucune interventi
 
 Script 5/6/7/8: Comme pour le second script, mais cette fois il est demandé d'extraire la liste des utilisateurs, des groupes, des dossiers partagés et les imprimante partagées.
 
-! Plus d'explications dans les fichiers .ps1 dans les commentaires précédés d'un # !
+Plus d'explications dans les fichiers .ps1 dans les commentaires !
